@@ -9,7 +9,7 @@ name: affiliate marketing
 description: Affiliate marketing program
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![] (/images/logo.jpg)
+avatar: (/images/logo.jpg)
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: innovationmgt/affiliate-marketing
   instagram:
-  linkedin: linkedin.com/learning/me
+  linkedin: linkedin.com/in/marcus-low-5619891a7/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
