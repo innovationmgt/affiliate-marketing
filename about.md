@@ -15,3 +15,5 @@ Feel free to explore the stuff that most fitted for you.
 ### Contact me
 
 [kblow001@gmail.com](mailto:kblow001@gmail.com)
+
+![an image alt text]({{ site.baseurl }}/images/logo.png)
