@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about affiliate marketing program!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place we essentially provide you a service that embrace any other types of information that you'd like to hear about.
+
+Feel free to explore the stuff that most fitted for you.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kblow001@gmail.com](mailto:kblow001@gmail.com)
