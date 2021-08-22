@@ -3,6 +3,9 @@ layout: post
 title: Affiliate marketing program!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Our goal is to help you zoom in to the products that allow you to focus easily.
 
-![_config.yml]({{ site.baseurl }}/images/post.png)
+Here you go1
+
+
+![buildhugo.netlify.app]( /images/post.jpg)
