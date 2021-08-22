@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Affiliate marketing program!
-! [] (/images/logo.jpg)
 
 ---
 
