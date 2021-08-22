@@ -10,4 +10,4 @@ Our goal is to help you zoom in to the products that allow you to focus easily.
 Here you go!
 
 
-![<img src="{{ site.baseurl }}/images/post.jpg" alt="logo" style="width: 400px;"/>]
+<img src="{{ site.baseurl }}/images/post.jpg" alt="logo"/>
