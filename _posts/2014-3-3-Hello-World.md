@@ -10,4 +10,4 @@ Our goal is to help you zoom in to the products that allow you to focus easily.
 Here you go!
 
 
-<img src="/images/affiliate.jpg" alt="logo"/>
+<img src="/images/affiliate.jpg" alt="logo">
