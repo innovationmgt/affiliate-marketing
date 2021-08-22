@@ -16,4 +16,4 @@ Feel free to explore the stuff that most fitted for you.
 
 [kblow001@gmail.com](mailto:kblow001@gmail.com)
 
-![]({{ site.baseurl }} /images/logo.jpg)
+[<img src="{{ site.baseurl }}/images/post.jpg" alt="about " style="width: 400px;"/>]
